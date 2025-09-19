@@ -1,7 +1,7 @@
 # LeetCode DSA Journey: Beyond the Comfort of Easy Answers
 
-> “And those who were seen dancing were thought to be insane by those who could not hear the music.”  
-> — Friedrich Nietzsche
+> “A man’s worth is no greater than the ambitions he pursues.”  
+> — Marcus Aurelius
 
 ## Why This Repository?
 
