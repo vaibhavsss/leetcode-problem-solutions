@@ -3,6 +3,11 @@
 > “A man’s worth is no greater than the ambitions he pursues.”  
 > — Marcus Aurelius
 
+## 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Vlad_X01?theme=dark&font=Montserrat&ext=heatmap)
+
+
 ## Why This Repository?
 
 This repository is not about copying solutions quickly.  
